@@ -5,3 +5,8 @@ Docker image for transforming DFS zone to fAIRport model. The image uses a proje
 transform source data (DFS Zone) to fAIRport model in `geojson` format.
 
 
+## Build docker image
+
+```
+sh hooks/build wetransform/conversion-hale-fairport
+```
